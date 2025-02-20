@@ -11,6 +11,7 @@ Suricata es un motor de análisis de tráfico de red de alto rendimiento, que ac
 - [Archivos de Configuración](docs/configuration.md)
 - [Creación de Reglas](docs/rules.md)
 - [Análisis de Tráfico](docs/traffic_analysis.md)
+- [Suricata como IPS](docs/ips.md)
 - [Ejemplos de Uso](docs/examples.md)
 - [Solución de Problemas](docs/troubleshooting.md)
 
