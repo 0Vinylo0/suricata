@@ -4,6 +4,8 @@ Suricata es un motor de análisis de tráfico de red de alto rendimiento, que ac
 
 ## Contenidos
 
+<img src="/img/660ecd8374a693c48fc2fedc_Logo-FINAL_Vertical_Color_Whitetext.png" alt="GIF" width="200" height="175" align="right">
+
 - [Introducción](#introducción)
 - [Instalación](docs/installation.md)
 - [Archivos de Configuración](docs/configuration.md)
