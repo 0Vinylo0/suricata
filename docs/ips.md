@@ -37,10 +37,10 @@ Ejecuta los siguientes comandos para configurar `nftables`:
 nft add table inet filter
 
 # Añadir una cadena para el firewall
-nft add chain inet filter firewall { type filter hook forward priority 0; policy accept; }
+nft add chain inet filter firewall '{ type filter hook forward priority 0; policy accept; }'
 
 # Añadir una cadena para Suricata IPS
-nft add chain inet filter suricata { type filter hook forward priority 10; }
+nft add chain inet filter suricata '{ type filter hook forward priority 10; }'
 
 # Enviar tráfico a Suricata para su inspección
 nft add rule inet filter suricata queue
