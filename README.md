@@ -21,6 +21,7 @@ Suricata es un motor de análisis de tráfico de red de alto rendimiento, que ac
 Suricata es un sistema de detección y prevención de intrusos (IDS/IPS) que permite analizar el tráfico de red en tiempo real utilizando reglas predefinidas o personalizadas. Se puede implementar para proteger redes empresariales, servidores y sistemas críticos.
 
 **Características principales:**
+
 - Soporte para múltiples hilos (paralelismo)
 - Análisis de protocolos avanzados (HTTP, TLS, DNS, SSH, etc.)
 - Detección de amenazas basada en firmas y anomalías
